@@ -42,7 +42,7 @@ pip3 install scapy[complete]
 ip link show eth0
 ```
 
-![](./图片/检测混杂模式 copy.png)
+![](./图片/检测混杂模式.png)
 
 * 攻击者主机监听受害者主机
 
